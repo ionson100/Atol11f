@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Atol11fStringValue</string>
+    <string name="close">Закрыть</string>
+    <string name="save">Сохранить</string>
+    <string name="wqeqwe">Данные успешно залиты в ккм</string>
+    <string name="xzx">Запись значения</string>
+    <string name="gdfg">Нет данных, смотри в инструкции.</string>
+</resources>
